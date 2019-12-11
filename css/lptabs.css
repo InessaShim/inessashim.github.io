@@ -1,0 +1,42 @@
+.text-center {
+    font-size: 1.3em;
+    color: #969494;
+}
+
+.lp-tabs {
+    padding: 20px;
+}
+
+.lp-tabs .lp-tabs-titles ul {
+    padding: 0;
+    margin: 0 0 20px 0;
+    text-align: center;
+}
+
+.lp-tabs .lp-tabs-titles ul li {
+    display: inline-block;
+    background: #80bd61;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: color .25s, background-color .25s;
+    color: #fff;
+}
+
+.lp-tabs .lp-tabs-titles ul li:hover,
+.lp-tabs .lp-tabs-titles ul li.active {
+    background: #99de76;
+}
+
+.lp-tabs .lp-tabs-content {
+    position: relative;
+}
+
+.lp-tabs .lp-tabs-content .lp-tab {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    display: none;
+}

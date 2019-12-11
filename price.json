@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Гелиевые шары без рисунка 12 дюймов/30 см",
+        "price": 1.7,
+        "discount": 0.1,
+        "image": "img/without_pic.png"
+    }, {
+        "name": "Гелиевые шары с конфетти 12 дюймов/30 см",
+        "price": 2.2,
+        "discount": 0.2,
+        "image": "img/confetti.png"
+    }, {
+        "name": "Гелиевые шары с рисунком 12 дюймов/30 см",
+        "price": 1.7,
+        "discount": 0,
+        "image": "img/pic.png"
+    }, {
+        "name": "Фольгированные фигуры",
+        "price": 7,
+        "discount": 0.15,
+        "image": "img/foil_figures.png"
+    }, {
+        "name": "Шары-цифры",
+        "price": 13,
+        "discount": 0,
+        "image": "img/numbers.png"
+    }, {
+        "name": "Фольгированные круглые шары с рисунком 18 дюймов/45 см",
+        "price": 5,
+        "discount": 0.2,
+        "image": "img/round_foil.png"
+    }
+]
